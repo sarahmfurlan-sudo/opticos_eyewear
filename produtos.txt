@@ -1,0 +1,4 @@
+Ray-Ban Aviador;RB001;Óculos de Sol;10;599.9;Ray-Ban;Modelo clássico com lentes escuras
+Oakley Holbrook;OK002;Óculos de Sol;5;450.0;Oakley;Modelo esportivo e resistente
+ray ban;5225;solar;41;444.98;ray ban;fechado
+ray ban;25556;solar;45;555.98;ray ban;fechado
